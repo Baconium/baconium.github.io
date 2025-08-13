@@ -3,7 +3,7 @@ Label: BaconMania's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneosarm iphoneosarm64 iphoneosarm64e
+Architectures: iphoneosarm iphoneosarm64 iphoneosarm64e iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: subscribe to slidercentral
 
