@@ -1,13 +1,28 @@
 Package: com.baconmania.SolsticePlus
 Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: BaconMania
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.baconmania.solsticeplusrootless.deb
+Size: 619594
+MD5sum: 8b7190151c6ba0b544b21184157288d2
+SHA1: 086eec670123781f158ff074bfd463ab327f3cc1
+SHA256: 5807a747730ce69c32f27d96e482724e805f5882fe93bcf1e8c03e5b69c54e48
+Section: Themes
+Description: extra icons for the solstice theme, prioritize over solstice for for replacement icons. for any issues or icon requests, please contact me on discord @BaconManiaGD. THIS PROJECT IS NOT AFFILIATED WITH THE ORIGINAL SOLSTICE THEME, NOR DOES IT INCLUDE ANY OF ITS ICONS. DO NOT CONTACT THE ORIGINAL SOLSTICE THEME CREATOR (Rifai) ABOUT ANY ISSUES IF YOU INSTALL THIS THEME. USE AT YOUR OWN RISK.
+Author: BaconMania
+Name: Solstice Plus Theme
+
+Package: com.baconmania.SolsticePlus
+Version: 1.2.2
 Architecture: iphoneos-arm64e
 Maintainer: BaconMania
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.baconmania.solsticeplusroothide.deb
-Size: 621912
-MD5sum: a50f2c1adfd4cc3439e93ece73436c13
-SHA1: 8a19463c64a3228400431f6259e60f233a93a3f3
-SHA256: 6a76f3db5a8227dbd93daaa51a8117d5a9d7cdd98e566c0f53f678670935eb99
+Size: 619598
+MD5sum: 596c1aa99d09a3734455f8d858e68788
+SHA1: c536c8a1d302ff4d26afd03494771ebbb1d9366d
+SHA256: 7851b3a8acd42c71b7bba2099c06eebd88a5c1839188547505310035a1d31afa
 Section: Themes
 Description: extra icons for the solstice theme, prioritize over solstice for for replacement icons. for any issues or icon requests, please contact me on discord @BaconManiaGD. THIS PROJECT IS NOT AFFILIATED WITH THE ORIGINAL SOLSTICE THEME, NOR DOES IT INCLUDE ANY OF ITS ICONS. DO NOT CONTACT THE ORIGINAL SOLSTICE THEME CREATOR (Rifai) ABOUT ANY ISSUES IF YOU INSTALL THIS THEME. USE AT YOUR OWN RISK.
 Author: BaconMania
@@ -19,10 +34,10 @@ Architecture: iphoneos-arm
 Maintainer: BaconMania
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.baconmania.solsticeplus.deb
-Size: 623616
-MD5sum: 0afb7e06f202da8760ae55727a15baa3
-SHA1: cf3cea3a51625805ddb0afaca2d970506773758c
-SHA256: 386ef716b99d0de19f85e6c5a04e0c6dca5374fab8948de4cfcf8abf705ac61e
+Size: 619596
+MD5sum: 8f7ded0d8a40f687de8bd088677ba9d3
+SHA1: 513dc6b5497d2797da5309f1ef70b19b7ee0ed12
+SHA256: 65aa4fd5651b19a4b980d02aa6242c0adf944f41dd6de818ee8916659360f2c1
 Section: Themes
 Description: extra icons for the solstice theme, prioritize over solstice for for replacement icons. for any issues or icon requests, please contact me on discord @BaconManiaGD. THIS PROJECT IS NOT AFFILIATED WITH THE ORIGINAL SOLSTICE THEME, NOR DOES IT INCLUDE ANY OF ITS ICONS. DO NOT CONTACT THE ORIGINAL SOLSTICE THEME CREATOR (Rifai) ABOUT ANY ISSUES IF YOU INSTALL THIS THEME. USE AT YOUR OWN RISK.
 Author: BaconMania
