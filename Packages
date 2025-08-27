@@ -43,3 +43,36 @@ Description: extra icons for the solstice theme, prioritize over solstice for fo
 Author: BaconMania
 Name: Solstice Plus Theme
 
+Package: com.baconmania.darksling
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: BaconMania
+Installed-Size: 248
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.baconmania.darksling_1.0_iphoneos-arm64.deb
+Size: 24190
+MD5sum: 55635d79467ba107b36146ea01f4d139
+SHA1: 22715971f4aaefc26cd3afa6efaea5f39395c87d
+SHA256: 32aaf2367432942afa4f0700aa3f8291a648f2c412baf5a94c955cd39dddbe30
+Section: Tweaks
+Description: Dark mode for sling. This tweak will probably be updated shortly as I still have some issues with the ui.
+Author: BaconMania
+Name: DarkSling
+
+Package: com.baconmania.darksling
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: BaconMania
+Installed-Size: 248
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.baconmania.darksling_1.0_iphoneos-arm64e.deb
+Size: 32654
+MD5sum: 263fd51074e7002a0591e1a8f0c5d941
+SHA1: 03d8406e5ee335e9646a2b1ad51ff1c2093cd152
+SHA256: 736113e89b1255052eafe778773a8c9551c73da8a60422373cd902e6eb520079
+Section: Tweaks
+Description: Dark mode for sling. This tweak will probably be updated shortly as I still have some issues with the ui.
+Author: BaconMania
+Name: DarkSling
+
